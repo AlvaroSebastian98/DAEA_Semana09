@@ -1,0 +1,10 @@
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab9\University\Database1\bin\Debug\Database1.dacpac
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab9\University\Database1\bin\Debug\Database1.dll
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab9\University\Database1\bin\Debug\Database1.pdb
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab9\University\Database1\obj\Debug\Database1.sqlprojAssemblyReference.cache
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab9\University\Database1\obj\Debug\Model.xml
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab9\University\Database1\obj\Debug\refactor.xml
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab9\University\Database1\obj\Debug\postdeploy.sql
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab9\University\Database1\obj\Debug\predeploy.sql
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab9\University\Database1\obj\Debug\Database1.dll
+D:\Alvaro\Tecsup\VI_Ciclo\Desarrollo_Aplicaciones_Empresariales_Avanzado\Lab9\University\Database1\obj\Debug\Database1.pdb
